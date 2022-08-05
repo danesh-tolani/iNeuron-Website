@@ -26,6 +26,9 @@ For the illustrations and icons I have used following resources:
 
 ---
 
-# Deployed page:
+![](https://img.shields.io/badge/PREVIEW-IMAGE-green)
+![](1.jpg)
 
-## [iNeuron re-designed](https://ineuron-homepage-danesh.netlify.app/)
+## Click on the below link to checkout the deployed website
+
+[![](https://img.shields.io/badge/LIVE-WEBSITE-blue)](https://ineuron-homepage-danesh.netlify.app/)
